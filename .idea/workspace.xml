@@ -5,51 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Models and database integration has been added to the project">
-      <change afterPath="$PROJECT_DIR$/src/school/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/models/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/models/AccountModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/utils/GUIUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/LoginView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/LoginViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/MainView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/level/LevelEditDialog.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/level/LevelEditDialogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/level/LevelView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/level/LevelViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/teacher/TeacherEditDialog.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/teacher/TeacherEditDialogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/teacher/TeacherView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school/views/teacher/TeacherViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/school_system.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-school-managment-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-school-managment-system.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/models/Level.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/models/LevelModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/models/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/models/StudentModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/models/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/models/SubjectModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/models/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/models/TeacherModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-school-managment-system/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/utils/DAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/utils/DateUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/views/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/views/MainView.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/views/MainViewContoller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/models/Level.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/LevelModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/models/LevelModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/models/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/StudentModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/models/StudentModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/models/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/SubjectModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/models/SubjectModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/models/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/TeacherModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/models/TeacherModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/utils/DAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/utils/DateUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/MainView.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/MainViewContoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/views/MainViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo-school-managment-system/school/views/LoginViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-school-managment-system/school/views/LoginViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/school/views/level/LevelViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/views/level/LevelViewController.java" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/school/views/MainViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
+            <state relative-caret-position="528">
               <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
             </state>
           </provider>
@@ -121,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/school/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
+            <state relative-caret-position="1232">
               <caret line="56" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
@@ -130,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/school/models/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="685">
+            <state relative-caret-position="1496">
               <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
             </state>
           </provider>
@@ -139,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/school/models/AccountModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="572">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -149,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/src/school/views/LoginView.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
+            <state relative-caret-position="220">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
@@ -159,16 +116,16 @@
         <entry file="file://$PROJECT_DIR$/src/school/views/MainView.fxml">
           <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="426">
+            <state relative-caret-position="770">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/school/views/LoginViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="1221">
               <caret line="75" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
@@ -177,7 +134,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/school/models/LevelModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="616">
               <caret line="28" column="27" selection-start-line="21" selection-start-column="8" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
@@ -186,17 +143,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/school/views/level/LevelEditDialogController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="100" column="9" lean-forward="true" selection-start-line="85" selection-start-column="8" selection-end-line="100" selection-end-column="9" />
+            <state relative-caret-position="2200">
+              <caret line="100" column="9" selection-start-line="85" selection-start-column="8" selection-end-line="100" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/school/views/level/LevelViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2249">
-              <caret line="152" column="28" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
+            <state relative-caret-position="296">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
@@ -257,7 +214,6 @@
         <option value="$PROJECT_DIR$/src/school/views/LevelViewController.java" />
         <option value="$PROJECT_DIR$/src/school/views/teacher/TeacherView.fxml" />
         <option value="$PROJECT_DIR$/src/school/views/MainViewController.java" />
-        <option value="$PROJECT_DIR$/src/school/views/level/LevelViewController.java" />
         <option value="$PROJECT_DIR$/src/school/views/MainView.fxml" />
         <option value="$PROJECT_DIR$/src/module-info.java" />
         <option value="$PROJECT_DIR$/src/school/views/teacher/TeacherEditDialog.fxml" />
@@ -268,6 +224,7 @@
         <option value="$PROJECT_DIR$/src/school/views/LoginView.fxml" />
         <option value="$PROJECT_DIR$/src/school/MainApp.java" />
         <option value="$PROJECT_DIR$/src/school/views/LoginViewController.java" />
+        <option value="$PROJECT_DIR$/src/school/views/level/LevelViewController.java" />
       </list>
     </option>
   </component>
@@ -286,6 +243,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -345,8 +304,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -534,6 +491,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.19035202" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -544,7 +502,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32930514" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33075932" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33075932" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3976834" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -619,7 +577,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/school/views/level/LevelViewController.java</url>
-          <line>55</line>
+          <line>52</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -910,75 +868,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/school/models/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/school/models/LevelModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="28" column="27" selection-start-line="21" selection-start-column="8" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/school/models/AccountModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/school/views/level/LevelEditDialogController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="100" column="9" lean-forward="true" selection-start-line="85" selection-start-column="8" selection-end-line="100" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/school/views/level/LevelViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2249">
-          <caret line="152" column="28" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/school/views/MainView.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/school/views/LoginView.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/school/views/MainViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="528">
           <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/school/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
+        <state relative-caret-position="1232">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/school/models/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/school/models/AccountModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/school/views/LoginView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/school/views/MainView.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/school/models/LevelModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="27" selection-start-line="21" selection-start-column="8" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/school/views/level/LevelEditDialogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="100" column="9" selection-start-line="85" selection-start-column="8" selection-end-line="100" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/school/views/LoginViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="1221">
           <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/school/views/level/LevelViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
