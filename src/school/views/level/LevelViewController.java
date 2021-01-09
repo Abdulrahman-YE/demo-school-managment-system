@@ -172,7 +172,8 @@ public class LevelViewController implements Initializable {
 
             try {
                 if (levelModel.add(tempLevel) == 1) {
-                    tempLevel.setID( levelTable.getItems().get((levelTable.getItems().size() - 1)).getID() + 1) ;
+                    ObservableList<Level> levels = levelModel.getAll();
+                    tempLevel = levels.get(levels.size() - 1);
                     levelTable.getItems().add(tempLevel);
                 }
 
